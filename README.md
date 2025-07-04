@@ -187,7 +187,6 @@ If you use this code or methodology in your research, please cite:
   organization={IEEE},
   doi={10.1109/RTSI61910.2024.10761805}
 }
-
 @article{taco2020,
     title={TACO: Trash Annotations in Context for Litter Detection},
     author={Pedro F Proença and Pedro Simões},
