@@ -1,0 +1,78 @@
+[
+  {
+    "model_name": "yolov5n",
+    "model_path": "yolov5nu.pt",
+    "trained_model_path": "yolo_litter_detection_part1/yolov5n/weights/best.pt",
+    "size_mb": 5.305060386657715,
+    "parameters": 2654816,
+    "training_time_hours": 0.026467160516315036,
+    "default_map50": 0.21487767556093032,
+    "default_map50_95": 0.10150994707592424,
+    "best_confidence": 0.001,
+    "optimized_map50": 0.21487767556093032,
+    "optimized_map50_95": 0.10150994707592424,
+    "map50_improvement": 0.0,
+    "map50_95_improvement": 0.0,
+    "avg_inference_time": 0.06223271369934082,
+    "fps": 16.06871917607848,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.18114429464923124,
+        "mAP50_95": 0.07737317327730867
+      },
+      {
+        "confidence": 0.1,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.2,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.3,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.4,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.6,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.7,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.9,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.95,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      }
+    ],
+    "completed_at": "2025-07-04T01:44:50.680225",
+    "part": 1
+  }
+]
