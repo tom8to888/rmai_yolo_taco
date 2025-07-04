@@ -1,0 +1,164 @@
+[
+  {
+    "model_name": "yolov9t",
+    "model_path": "yolov9t.pt",
+    "trained_model_path": "yolo_litter_detection_part2/yolov9t/weights/best.pt",
+    "size_mb": 4.7395734786987305,
+    "parameters": 2128720,
+    "training_time_hours": 0.027530199024412366,
+    "default_map50": 0.10113997084628112,
+    "default_map50_95": 0.048642159720617674,
+    "best_confidence": 0.001,
+    "optimized_map50": 0.10113997084628112,
+    "optimized_map50_95": 0.048642159720617674,
+    "map50_improvement": 0.0,
+    "map50_95_improvement": 0.0,
+    "avg_inference_time": 0.07943432569503785,
+    "fps": 12.589016036205473,
+    "preprocess_time_yolo": 0.00251296510596028,
+    "inference_time_yolo": 0.004839306721853955,
+    "postprocess_time_yolo": 0.0029413512317889084,
+    "total_inference_time_yolo": 0.010293623059603144,
+    "fps_yolo": 97.14752465771305,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.09452651463258285,
+        "mAP50_95": 0.03918886708900464
+      },
+      {
+        "confidence": 0.1,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.2,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.3,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.4,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.6,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.7,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.9,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.95,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      }
+    ],
+    "completed_at": "2025-07-04T13:30:08.366970",
+    "part": 2
+  },
+  {
+    "model_name": "yolo11n",
+    "model_path": "yolo11n.pt",
+    "trained_model_path": "yolo_litter_detection_part2/yolo11n/weights/best.pt",
+    "size_mb": 5.353702545166016,
+    "parameters": 2624080,
+    "training_time_hours": 0.021022595630751716,
+    "default_map50": 0.21108104719232293,
+    "default_map50_95": 0.10396318025916669,
+    "best_confidence": 0.001,
+    "optimized_map50": 0.21108104719232293,
+    "optimized_map50_95": 0.10396318025916669,
+    "map50_improvement": 0.0,
+    "map50_95_improvement": 0.0,
+    "avg_inference_time": 0.07273396253585815,
+    "fps": 13.748735324395337,
+    "preprocess_time_yolo": 0.004321969271521819,
+    "inference_time_yolo": 0.0023098592980147336,
+    "postprocess_time_yolo": 0.0025266468543041444,
+    "total_inference_time_yolo": 0.009158475423840698,
+    "fps_yolo": 109.1884788375225,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.18993807831863535,
+        "mAP50_95": 0.09037403408766054
+      },
+      {
+        "confidence": 0.1,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.2,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.3,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.4,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.6,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.7,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.9,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.95,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      }
+    ],
+    "completed_at": "2025-07-04T13:33:48.535786",
+    "part": 2
+  }
+]
