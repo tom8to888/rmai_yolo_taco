@@ -6,11 +6,6 @@ This repository implements and evaluates efficient YOLO models for litter detect
 
 **Bianco, S., Gaviraghi, E., & Schettini, R. (2024).** *Efficient Deep Learning Models for Litter Detection in the Wild.* 2024 IEEE 8th Forum on Research and Technologies for Society and Industry Innovation (RTSI), 601-606. DOI: 10.1109/RTSI61910.2024.10761805
 
-title={TACO: Trash Annotations in Context for Litter Detection},
-    author={Pedro F Proença and Pedro Simões},
-    journal={arXiv preprint arXiv:2003.06975},
-    year={2020}
-
 **Proença, P. F., & Simões, P. (2020).** *TACO: trash annotations in context for litter detection.* CoRR,abs/2003.06975. Retrieved from https://arxiv.org/abs/2003.06975
 
 ## 🎯 Project Overview
@@ -192,9 +187,7 @@ If you use this code or methodology in your research, please cite:
   organization={IEEE},
   doi={10.1109/RTSI61910.2024.10761805}
 }
-```
 
-'''bibtex
 @article{taco2020,
     title={TACO: Trash Annotations in Context for Litter Detection},
     author={Pedro F Proença and Pedro Simões},
