@@ -5,11 +5,11 @@
     "trained_model_path": "yolo_litter_detection_part1/yolov5n/weights/best.pt",
     "size_mb": 5.305060386657715,
     "parameters": 2654816,
-    "training_time_hours": 0.02500275366836124,
+    "training_time_hours": 0.024901490145259435,
     "default_map50": 0.16898442667693261,
     "default_map50_95": 0.07815084465490373,
-    "precision": 0.006033333333333333,
-    "recall": 0.5501519756838906,
+    "default_precision": 0.006033333333333333,
+    "default_recall": 0.5501519756838906,
     "best_confidence": 0.001,
     "optimized_map50": 0.16898442667693261,
     "optimized_map50_95": 0.07815084465490373,
@@ -19,10 +19,10 @@
     "map50_95_improvement": 0.0,
     "precision_improvement": 0.0,
     "recall_improvement": 0.0,
-    "avg_inference_time": 0.05887517929077148,
-    "fps": 16.985086279928275,
-    "total_inference_time_yolo": 0.009169630324494157,
-    "fps_yolo": 109.05565051284279,
+    "avg_inference_time": 0.059225234985351566,
+    "fps": 16.88469450982059,
+    "total_inference_time_yolo": 0.007517120615899475,
+    "fps_yolo": 133.02966003829954,
     "confidence_results": [
       {
         "confidence": 0.001,
@@ -80,7 +80,7 @@
         "mAP50_95": 0.0
       }
     ],
-    "completed_at": "2025-07-05T03:43:23.961456",
+    "completed_at": "2025-07-05T03:49:14.382449",
     "part": 1
   }
 ]
