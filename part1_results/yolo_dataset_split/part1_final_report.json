@@ -11,8 +11,8 @@
     ],
     "models_failed": [],
     "start_time": "2025-07-05T04:55:34.629788",
-    "end_time": "2025-07-05T05:18:19.501462",
-    "total_time_hours": 0.3791310214334064
+    "end_time": "2025-07-05T05:49:12.996104",
+    "total_time_hours": 0.8939906442165375
   },
   "training_params": {
     "epochs": 10,
