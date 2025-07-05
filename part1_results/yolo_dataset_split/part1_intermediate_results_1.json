@@ -1,0 +1,46 @@
+[
+  {
+    "model_name": "yolov5n",
+    "model_path": "yolov5nu.pt",
+    "trained_model_path": "yolo_litter_detection_part1/yolov5n/weights/best.pt",
+    "size_mb": 5.305060386657715,
+    "parameters": 2654816,
+    "training_time_hours": 0.01980267710155911,
+    "default_map50": 0.16898442667693261,
+    "default_map50_95": 0.07815084465490373,
+    "default_precision": 0.006033333333333333,
+    "default_recall": 0.5501519756838906,
+    "best_confidence": 0.001,
+    "optimized_map50": 0.16898442667693261,
+    "optimized_map50_95": 0.07815084465490373,
+    "optimized_precision": 0.006033333333333333,
+    "optimized_recall": 0.5501519756838906,
+    "map50_improvement": 0.0,
+    "map50_95_improvement": 0.0,
+    "precision_improvement": 0.0,
+    "recall_improvement": 0.0,
+    "avg_inference_time": 0.058743581771850586,
+    "fps": 17.02313631272636,
+    "total_inference_time_yolo": 0.007990181662240043,
+    "fps_yolo": 125.15360003963295,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.1546430481896217,
+        "mAP50_95": 0.06673174559421902
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      }
+    ],
+    "completed_at": "2025-07-05T04:10:43.634609",
+    "part": 1
+  }
+]
