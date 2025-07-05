@@ -1,0 +1,170 @@
+[
+  {
+    "model_name": "yolov9t",
+    "model_path": "yolov9t.pt",
+    "trained_model_path": "yolo_litter_detection_part2/yolov9t/weights/best.pt",
+    "size_mb": 4.7395734786987305,
+    "parameters": 2128720,
+    "training_time_hours": 0.22839526461230383,
+    "default_map50": 0.054090916292943894,
+    "default_map50_95": 0.025460679380128803,
+    "default_precision": 0.3412750273985046,
+    "default_recall": 0.034371643394199784,
+    "best_confidence": 0.2,
+    "optimized_map50": 0.3223863636363636,
+    "optimized_map50_95": 0.184667874312647,
+    "optimized_precision": 0.6363636363636364,
+    "optimized_recall": 0.007518796992481203,
+    "map50_improvement": 0.2682954473434197,
+    "map50_95_improvement": 0.1592071949325182,
+    "precision_improvement": 0.2950886089651317,
+    "recall_improvement": -0.02685284640171858,
+    "avg_inference_time": 0.2378077721595764,
+    "fps": 4.205077028891086,
+    "total_inference_time_yolo": 0.13494140801324928,
+    "fps_yolo": 7.410623727164715,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.047984693149316714,
+        "mAP50_95": 0.023056688783684377
+      },
+      {
+        "confidence": 0.1,
+        "mAP50": 0.24032759445241514,
+        "mAP50_95": 0.09904366047036253
+      },
+      {
+        "confidence": 0.2,
+        "mAP50": 0.3017927565392353,
+        "mAP50_95": 0.15085162165377028
+      },
+      {
+        "confidence": 0.3,
+        "mAP50": 0.2504959919839679,
+        "mAP50_95": 0.10019839679358715
+      },
+      {
+        "confidence": 0.4,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.6,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.7,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.9,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.95,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      }
+    ],
+    "completed_at": "2025-07-05T16:22:01.513182",
+    "part": 2
+  },
+  {
+    "model_name": "yolo11n",
+    "model_path": "yolo11n.pt",
+    "trained_model_path": "yolo_litter_detection_part2/yolo11n/weights/best.pt",
+    "size_mb": 5.353702545166016,
+    "parameters": 2624080,
+    "training_time_hours": 0.20125609305169848,
+    "default_map50": 0.14487047013148532,
+    "default_map50_95": 0.06668037223355389,
+    "default_precision": 0.7278549119979058,
+    "default_recall": 0.06032922108635986,
+    "best_confidence": 0.2,
+    "optimized_map50": 0.5026727861771058,
+    "optimized_map50_95": 0.3019698331641142,
+    "optimized_precision": 1.0,
+    "optimized_recall": 0.0053705692803437165,
+    "map50_improvement": 0.3578023160456204,
+    "map50_95_improvement": 0.2352894609305603,
+    "precision_improvement": 0.27214508800209425,
+    "recall_improvement": -0.05495865180601614,
+    "avg_inference_time": 0.17728193283081053,
+    "fps": 5.6407327246051215,
+    "total_inference_time_yolo": 0.11402748798013367,
+    "fps_yolo": 8.769815223625939,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.16934400054255472,
+        "mAP50_95": 0.08360215927057213
+      },
+      {
+        "confidence": 0.1,
+        "mAP50": 0.4111278195488722,
+        "mAP50_95": 0.26925560861600395
+      },
+      {
+        "confidence": 0.2,
+        "mAP50": 0.5029879275653925,
+        "mAP50_95": 0.3694914189242465
+      },
+      {
+        "confidence": 0.3,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.4,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.6,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.7,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.9,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      },
+      {
+        "confidence": 0.95,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      }
+    ],
+    "completed_at": "2025-07-05T16:42:46.678666",
+    "part": 2
+  }
+]
