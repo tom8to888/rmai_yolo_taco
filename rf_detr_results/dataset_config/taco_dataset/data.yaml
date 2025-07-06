@@ -1,0 +1,14 @@
+# TACO-1 Dataset RF-DETR Configuration
+path: /kaggle/working/taco_dataset
+train: train/images
+val: val/images
+test: test/images
+
+# Annotations (COCO format)
+train_ann: train/annotations/instances.json
+val_ann: val/annotations/instances.json
+test_ann: test/annotations/instances.json
+
+# Classes
+nc: 1
+names: ['litter']
