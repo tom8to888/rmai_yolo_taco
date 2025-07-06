@@ -1,0 +1,422 @@
+[
+  {
+    "model_name": "yolov9t",
+    "model_path": "yolov9t.pt",
+    "trained_model_path": "yolo_litter_detection_part2/yolov9t/weights/best.pt",
+    "size_mb": 4.7395734786987305,
+    "parameters": 2128720,
+    "training_time_hours": 0.8566530740261078,
+    "default_map50": 0.46861357315116664,
+    "default_map50_95": 0.3148680533725982,
+    "default_precision": 0.6593542519093463,
+    "default_recall": 0.42745861733203505,
+    "best_confidence": 0.5,
+    "optimized_map50": 0.596536687834964,
+    "optimized_map50_95": 0.4656250024551115,
+    "optimized_precision": 0.8282352941176471,
+    "optimized_recall": 0.3427458617332035,
+    "map50_improvement": 0.1279231146837974,
+    "map50_95_improvement": 0.1507569490825133,
+    "precision_improvement": 0.1688810422083008,
+    "recall_improvement": -0.08471275559883157,
+    "avg_inference_time": 0.08933858871459961,
+    "fps": 11.193371357080562,
+    "total_inference_time_yolo": 0.008913012629144105,
+    "fps_yolo": 112.19551027339088,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.4781806070243096,
+        "mAP50_95": 0.3295632441322924
+      },
+      {
+        "confidence": 0.1,
+        "mAP50": 0.5339226069024926,
+        "mAP50_95": 0.3923671144061213
+      },
+      {
+        "confidence": 0.2,
+        "mAP50": 0.5613425161236647,
+        "mAP50_95": 0.42498493919224567
+      },
+      {
+        "confidence": 0.3,
+        "mAP50": 0.580968819143224,
+        "mAP50_95": 0.4515900787220951
+      },
+      {
+        "confidence": 0.4,
+        "mAP50": 0.5884758721900493,
+        "mAP50_95": 0.4644452188901644
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.6044297061859515,
+        "mAP50_95": 0.4814751755714276
+      },
+      {
+        "confidence": 0.6,
+        "mAP50": 0.6004102451813278,
+        "mAP50_95": 0.4808619603988496
+      },
+      {
+        "confidence": 0.7,
+        "mAP50": 0.5908547631219774,
+        "mAP50_95": 0.48157550517116404
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.570884736182016,
+        "mAP50_95": 0.4820199932082284
+      },
+      {
+        "confidence": 0.9,
+        "mAP50": 0.5310470198675498,
+        "mAP50_95": 0.4619251398189748
+      },
+      {
+        "confidence": 0.95,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      }
+    ],
+    "completed_at": "2025-07-05T20:53:45.343194",
+    "part": 2
+  },
+  {
+    "model_name": "yolov9s",
+    "model_path": "yolov9s.pt",
+    "trained_model_path": "yolo_litter_detection_part2/yolov9s/weights/best.pt",
+    "size_mb": 14.67634105682373,
+    "parameters": 7318368,
+    "training_time_hours": 1.0522787986861335,
+    "default_map50": 0.48586819861304903,
+    "default_map50_95": 0.3115665109672279,
+    "default_precision": 0.7000741876528754,
+    "default_recall": 0.4295579760109199,
+    "best_confidence": 0.5,
+    "optimized_map50": 0.6064184158490376,
+    "optimized_map50_95": 0.4451489585665162,
+    "optimized_precision": 0.7963709677419355,
+    "optimized_recall": 0.38461538461538464,
+    "map50_improvement": 0.12055021723598852,
+    "map50_95_improvement": 0.13358244759928828,
+    "precision_improvement": 0.09629678008906006,
+    "recall_improvement": -0.04494259139553525,
+    "avg_inference_time": 0.08222603797912598,
+    "fps": 12.161597768505658,
+    "total_inference_time_yolo": 0.011059531649044213,
+    "fps_yolo": 90.41974214942655,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.5065548113292584,
+        "mAP50_95": 0.3235915431168821
+      },
+      {
+        "confidence": 0.1,
+        "mAP50": 0.5523679502839809,
+        "mAP50_95": 0.3757652618855421
+      },
+      {
+        "confidence": 0.2,
+        "mAP50": 0.582508077109964,
+        "mAP50_95": 0.40445714571960256
+      },
+      {
+        "confidence": 0.3,
+        "mAP50": 0.5947826968293235,
+        "mAP50_95": 0.4192220326625667
+      },
+      {
+        "confidence": 0.4,
+        "mAP50": 0.6070708735213296,
+        "mAP50_95": 0.43696065869641065
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.6166080067581972,
+        "mAP50_95": 0.44721752767122086
+      },
+      {
+        "confidence": 0.6,
+        "mAP50": 0.6041575961211314,
+        "mAP50_95": 0.4514025912061517
+      },
+      {
+        "confidence": 0.7,
+        "mAP50": 0.6058514436515787,
+        "mAP50_95": 0.464431876386677
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.579895037838992,
+        "mAP50_95": 0.45664473913820947
+      },
+      {
+        "confidence": 0.9,
+        "mAP50": 0.5093107594936708,
+        "mAP50_95": 0.4132388429200794
+      },
+      {
+        "confidence": 0.95,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      }
+    ],
+    "completed_at": "2025-07-05T22:01:07.407088",
+    "part": 2
+  },
+  {
+    "model_name": "yolov10n",
+    "model_path": "yolov10n.pt",
+    "trained_model_path": "yolo_litter_detection_part2/yolov10n/weights/best.pt",
+    "size_mb": 5.588896751403809,
+    "parameters": 2775520,
+    "training_time_hours": 1.007018723487854,
+    "default_map50": 0.4453784314758622,
+    "default_map50_95": 0.3019188867135925,
+    "default_precision": 0.6346068879255891,
+    "default_recall": 0.4007953850709424,
+    "best_confidence": 0.6,
+    "optimized_map50": 0.5827726908230794,
+    "optimized_map50_95": 0.4769828765511785,
+    "optimized_precision": 0.9380165289256198,
+    "optimized_recall": 0.22103213242453748,
+    "map50_improvement": 0.13739425934721716,
+    "map50_95_improvement": 0.17506398983758598,
+    "precision_improvement": 0.30340964100003076,
+    "recall_improvement": -0.17976325264640494,
+    "avg_inference_time": 0.08151481866836548,
+    "fps": 12.267708084690657,
+    "total_inference_time_yolo": 0.006776058251609767,
+    "fps_yolo": 147.5784243387272,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.4420215582727779,
+        "mAP50_95": 0.3079170542890314
+      },
+      {
+        "confidence": 0.1,
+        "mAP50": 0.5146510135947466,
+        "mAP50_95": 0.38654329219994404
+      },
+      {
+        "confidence": 0.2,
+        "mAP50": 0.5531147011387139,
+        "mAP50_95": 0.42791378753497156
+      },
+      {
+        "confidence": 0.3,
+        "mAP50": 0.5618781970533863,
+        "mAP50_95": 0.4486985384206673
+      },
+      {
+        "confidence": 0.4,
+        "mAP50": 0.5755148925027177,
+        "mAP50_95": 0.4641884029594888
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.5742803388091055,
+        "mAP50_95": 0.4677713470374304
+      },
+      {
+        "confidence": 0.6,
+        "mAP50": 0.5760342215582368,
+        "mAP50_95": 0.4798688386519382
+      },
+      {
+        "confidence": 0.7,
+        "mAP50": 0.564397316949806,
+        "mAP50_95": 0.47975631316146394
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.5529716485680183,
+        "mAP50_95": 0.4891122504041622
+      },
+      {
+        "confidence": 0.9,
+        "mAP50": 0.516552034261242,
+        "mAP50_95": 0.4745500336836305
+      },
+      {
+        "confidence": 0.95,
+        "mAP50": 0.504133611691023,
+        "mAP50_95": 0.4539605012866267
+      }
+    ],
+    "completed_at": "2025-07-05T23:05:12.288408",
+    "part": 2
+  },
+  {
+    "model_name": "yolov10s",
+    "model_path": "yolov10s.pt",
+    "trained_model_path": "yolo_litter_detection_part2/yolov10s/weights/best.pt",
+    "size_mb": 15.853034019470215,
+    "parameters": 8128272,
+    "training_time_hours": 1.0353795061508815,
+    "default_map50": 0.47060855948913594,
+    "default_map50_95": 0.3232040210602015,
+    "default_precision": 0.669351488006506,
+    "default_recall": 0.4060370009737098,
+    "best_confidence": 0.7,
+    "optimized_map50": 0.5850973663329189,
+    "optimized_map50_95": 0.4800083147402339,
+    "optimized_precision": 0.8970099667774086,
+    "optimized_recall": 0.2629016553067186,
+    "map50_improvement": 0.11448880684378293,
+    "map50_95_improvement": 0.1568042936800324,
+    "precision_improvement": 0.22765847877090262,
+    "recall_improvement": -0.1431353456669912,
+    "avg_inference_time": 0.07068093299865723,
+    "fps": 14.148087151297192,
+    "total_inference_time_yolo": 0.008255351582843316,
+    "fps_yolo": 121.13354470308084,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.4867080880311039,
+        "mAP50_95": 0.3351395864598892
+      },
+      {
+        "confidence": 0.1,
+        "mAP50": 0.5531821291942607,
+        "mAP50_95": 0.4085170763118276
+      },
+      {
+        "confidence": 0.2,
+        "mAP50": 0.5839012965401829,
+        "mAP50_95": 0.44121275522511405
+      },
+      {
+        "confidence": 0.3,
+        "mAP50": 0.5876687528924912,
+        "mAP50_95": 0.45037111188642165
+      },
+      {
+        "confidence": 0.4,
+        "mAP50": 0.5976701575330098,
+        "mAP50_95": 0.4655767725887846
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.596148200492119,
+        "mAP50_95": 0.46938286614277036
+      },
+      {
+        "confidence": 0.6,
+        "mAP50": 0.6042103597950182,
+        "mAP50_95": 0.4836328185777334
+      },
+      {
+        "confidence": 0.7,
+        "mAP50": 0.6054574764985318,
+        "mAP50_95": 0.4918638758550096
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.576896108251094,
+        "mAP50_95": 0.4803008064658372
+      },
+      {
+        "confidence": 0.9,
+        "mAP50": 0.5379753639417693,
+        "mAP50_95": 0.4785951996685799
+      },
+      {
+        "confidence": 0.95,
+        "mAP50": 0.5072338235294118,
+        "mAP50_95": 0.4348960012387648
+      }
+    ],
+    "completed_at": "2025-07-06T00:11:37.870380",
+    "part": 2
+  },
+  {
+    "model_name": "yolo11n",
+    "model_path": "yolo11n.pt",
+    "trained_model_path": "yolo_litter_detection_part2/yolo11n/weights/best.pt",
+    "size_mb": 5.353702545166016,
+    "parameters": 2624080,
+    "training_time_hours": 0.840316509074635,
+    "default_map50": 0.4590125756776043,
+    "default_map50_95": 0.30811795343107373,
+    "default_precision": 0.6856169061516212,
+    "default_recall": 0.39922103213242455,
+    "best_confidence": 0.5,
+    "optimized_map50": 0.595401775316066,
+    "optimized_map50_95": 0.46965932997908466,
+    "optimized_precision": 0.8545454545454545,
+    "optimized_recall": 0.32035053554040893,
+    "map50_improvement": 0.1363891996384617,
+    "map50_95_improvement": 0.16154137654801093,
+    "precision_improvement": 0.1689285483938333,
+    "recall_improvement": -0.07887049659201562,
+    "avg_inference_time": 0.06797998905181885,
+    "fps": 14.710211254046156,
+    "total_inference_time_yolo": 0.009442299211875572,
+    "fps_yolo": 105.90640876348219,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.48251122350134823,
+        "mAP50_95": 0.33060590796482486
+      },
+      {
+        "confidence": 0.1,
+        "mAP50": 0.5398914614759222,
+        "mAP50_95": 0.39369935959443375
+      },
+      {
+        "confidence": 0.2,
+        "mAP50": 0.5653023144029781,
+        "mAP50_95": 0.4228541293409328
+      },
+      {
+        "confidence": 0.3,
+        "mAP50": 0.5851985030621814,
+        "mAP50_95": 0.45144471103341566
+      },
+      {
+        "confidence": 0.4,
+        "mAP50": 0.607481331477592,
+        "mAP50_95": 0.4767428944980933
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.6209379654115327,
+        "mAP50_95": 0.49272694762675256
+      },
+      {
+        "confidence": 0.6,
+        "mAP50": 0.6176028222390499,
+        "mAP50_95": 0.49576198776924885
+      },
+      {
+        "confidence": 0.7,
+        "mAP50": 0.5963115672562953,
+        "mAP50_95": 0.4925344057051334
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.5711095881325187,
+        "mAP50_95": 0.4857901025404968
+      },
+      {
+        "confidence": 0.9,
+        "mAP50": 0.5217272727272727,
+        "mAP50_95": 0.4842465355986511
+      },
+      {
+        "confidence": 0.95,
+        "mAP50": 0.5020582120582122,
+        "mAP50_95": 0.4771537394001089
+      }
+    ],
+    "completed_at": "2025-07-06T01:05:40.178387",
+    "part": 2
+  }
+]
