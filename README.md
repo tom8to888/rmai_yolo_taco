@@ -25,7 +25,7 @@ We use the **TACO (Trash Annotations in Context)** dataset, specifically the TAC
   - Realistic outdoor scenarios with uncontrolled conditions
   - High object diversity and complex backgrounds
 
-### Uploaded to Kaggle here: https://www.kaggle.com/datasets/thomflam/taco-1
+Uploaded to Kaggle (TACO-1): https://www.kaggle.com/datasets/thomflam/taco-1
 
 ### Dataset Split
 Following Bianco et al. methodology:
