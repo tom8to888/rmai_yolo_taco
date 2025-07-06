@@ -25,6 +25,8 @@ We use the **TACO (Trash Annotations in Context)** dataset, specifically the TAC
   - Realistic outdoor scenarios with uncontrolled conditions
   - High object diversity and complex backgrounds
 
+### Uploaded to Kaggle here: https://www.kaggle.com/datasets/thomflam/taco-1
+
 ### Dataset Split
 Following Bianco et al. methodology:
 - **Training**: 70% (1,050 images)
