@@ -52,8 +52,8 @@ Kaggle Notebook: https://www.kaggle.com/code/thomflam/yolo-litter-detection-part
 - **YOLOv10s** - Small variant
 - **YOLOv11n** - Nano variant
 - **YOLOv11s** - Small variant
-- **YOLOv12n** - Nano variant (if available)
-- **YOLOv12s** - Small variant (if available)
+- **YOLOv12n** - Nano variant
+- **YOLOv12s** - Small variant
 
 Kaggle Notebook: https://www.kaggle.com/code/thomflam/yolo-litter-detection-part2-14c4b927638
 
