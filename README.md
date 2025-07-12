@@ -43,6 +43,8 @@ Following Bianco et al. methodology:
 - **YOLOv8n** (yolov8n.pt) - 6.0 MB
 - **YOLOv8s** (yolov8s.pt) - 21.5 MB
 
+Kaggle Notebook: https://www.kaggle.com/code/thomflam/yolo-litter-detection-part1-2
+
 ### Part 2: Extended YOLO Evaluation
 - **YOLOv9t** - Tiny variant
 - **YOLOv9s** - Small variant
@@ -52,6 +54,8 @@ Following Bianco et al. methodology:
 - **YOLOv11s** - Small variant
 - **YOLOv12n** - Nano variant (if available)
 - **YOLOv12s** - Small variant (if available)
+
+Kaggle Notebook: https://www.kaggle.com/code/thomflam/yolo-litter-detection-part2-14c4b927638
 
 ## ⚙️ Training Configuration
 
