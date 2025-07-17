@@ -1,6 +1,6 @@
 # Efficient YOLO Models for Litter Detection
 
-This repository implements and evaluates efficient YOLO models for litter detection based on the methodology described in **"Efficient Deep Learning Models for Litter Detection in the Wild"** by Bianco et al. (2024), using the TACO dataset from **TACO: Trash Annotations in Context for Litter Detection** by Pedro F Proença and Pedro Simões (2020)
+This repository implements and evaluates efficient YOLO models for litter detection based on the methodology described in **"Efficient Deep Learning Models for Litter Detection in the Wild"** by Bianco et al. (2024), using the TACO dataset from **TACO: Trash Annotations in Context for Litter Detection** by Pedro F Proença and Pedro Simões (2020). The notebooks are publicly available on Kaggle (see section "YOLO Models Evaluated")
 
 ## 📄 Paper Reference
 
@@ -43,6 +43,8 @@ Following Bianco et al. methodology:
 - **YOLOv8n** (yolov8n.pt) - 6.0 MB
 - **YOLOv8s** (yolov8s.pt) - 21.5 MB
 
+Kaggle Notebook: https://www.kaggle.com/code/thomflam/yolo-litter-detection-part1-2
+
 ### Part 2: Extended YOLO Evaluation
 - **YOLOv9t** - Tiny variant
 - **YOLOv9s** - Small variant
@@ -50,8 +52,10 @@ Following Bianco et al. methodology:
 - **YOLOv10s** - Small variant
 - **YOLOv11n** - Nano variant
 - **YOLOv11s** - Small variant
-- **YOLOv12n** - Nano variant (if available)
-- **YOLOv12s** - Small variant (if available)
+- **YOLOv12n** - Nano variant
+- **YOLOv12s** - Small variant
+
+Kaggle Notebook: https://www.kaggle.com/code/thomflam/yolo-litter-detection-part2-14c4b927638
 
 ## ⚙️ Training Configuration
 
